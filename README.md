@@ -10,6 +10,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anim-101&layout=compact&langs_count=10)](https://github.com/anim-101/github-readme-stats)    
 
-![Anim's GitHub stats](https://github-readme-stats.vercel.app/api?username=anim-101&show_icons=true&theme=gruvbox)
-
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anim-101&theme=default)](https://git.io/streak-stats)
