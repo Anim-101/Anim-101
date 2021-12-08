@@ -1,6 +1,6 @@
 ### Hello World 👋
 - 🔭 I’m currently working on Adobe Experience Manager
-- 🌱 I’m currently learning Amazon Web Services, React JS, Adobe Experience Manager
+- 🌱 I’m currently learning Amazon Web Services, Spring Boot, React JS, Adobe Experience Manager
 - 👯 I’m looking to collaborate on Open Source Project
 - 🤔 I’m looking for help with Operating System Development
 - 💬 Ask me about Software Development & System Securities
