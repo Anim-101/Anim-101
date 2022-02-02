@@ -1,6 +1,6 @@
 ### Hello World 👋
-- 🔭 I’m currently working on NativeScript, Electron JS & Adobe Experience Manager
-- 🌱 I’m currently learning Amazon Web Services, Spring Boot, React JS, Adobe Experience Manager, NativeScript & Electron JS
+- 🔭 I’m currently working on Angular, Electron JS & Adobe Experience Manager
+- 🌱 I’m currently learning Amazon Web Services, Spring Boot, React JS, Adobe Experience Manager, Angular & Electron JS
 - 👯 I’m looking to collaborate on Open Source Project
 - 🤔 I’m looking for help with Operating System Development (Web3.0)
 - 💬 Ask me about Software Development & System Securities
