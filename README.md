@@ -22,9 +22,3 @@ A Computer Engineer  :technologist:
 </br>
 
 [![Anim-101's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anim-101&layout=compact&langs_count=10)](https://github.com/anim-101/github-readme-stats)    
-
-![Anim-101's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anim-101&show_icons=true&theme=radical)
-
-[![Anim-101's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Anim-101&theme=default)](https://git.io/streak-stats)
-
-![Anim-101's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Anim-101&hide_border=true&theme=redical)
