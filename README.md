@@ -10,8 +10,8 @@ A Computer Engineer  :technologist:
 
 <br>
 
-- 🔭 I’m currently working on Angular & Adobe Experience Manager
-- 🌱 I’m currently learning Amazon Web Services, Spring Boot, React JS, Elasticsearch, Adobe Experience Manager, Angular & Electron JS
+- 🔭 I’m currently working on Adobe Experience Manager
+- 🌱 I’m currently learning Amazon Web Services, Spring Boot & Adobe Experience Manager
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Operating System Development (Web3.0)
 - 💬 Ask me about Software Development & System Securities
