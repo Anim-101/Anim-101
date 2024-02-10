@@ -10,8 +10,8 @@ A Computer Engineer  :technologist:
 
 <br>
 
-- 🔭 I’m currently working on AWS Server Maintenance & Operations
-- 🌱 I’m currently learning Amazon Web Services, Spring Boot, Kubernetes
+- 🔭 I’m currently working on AWS Server Maintenance & Operations, Web Service Development
+- 🌱 I’m currently learning Amazon Web Services, Spring Boot, Kubernetes, Apache Kafka
 - :book: I'm currently certified on RHCSA, RHCE, AWS SAA-C03, JLPT N2
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Operating System Development (Web3.0)
