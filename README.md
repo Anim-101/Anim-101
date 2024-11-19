@@ -8,18 +8,6 @@ A Computer Engineer  :technologist:
 
 </h1>
 
-<h2>  Hello, thank you for stopping by my profile. </h2>
-<p>
-About me? I have been in the software engineering field for more than 4 years. I like system development specially in backend and cloud infrastructure side. Apart from that, I also have experience working on frontend development. 
-
-Currently, I am working as a system engineer at Business Architects inc. And for hobby I love learning new languages. I have Bengali, English, Japanese and Hindi language skills. I also have good business-level communication skills both in English and Japanese. Next, I am onto the Spanish language.
-
-As a system engineer, I have experience working from in-house systems to client systems. I do have experience in providing security support for customers on server-side systems. I have completed having AWS solutions architect associate and I am aiming for the solutions architect professional as well.
-
-If you have any queries please feel free to contact me.
-Have a nice time ahead.
-</p>
-
 <h2> Summery </h2>
 
 <br>
