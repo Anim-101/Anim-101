@@ -13,7 +13,7 @@ A Computer Engineer  :technologist:
 <br>
 
 - 🔭 I’m currently working on Full Stack Development
-- 🌱 I’m currently learning Amazon Web Services, Azure, React
+- 🌱 I’m currently learning Amazon Web Services, Azure, MCP
 - :book: I'm currently certified on RHCSA, RHCE, AWS SAA-C03, JLPT N2
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Operating System Development (Web3.0 & AI)
