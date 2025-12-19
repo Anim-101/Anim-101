@@ -14,7 +14,7 @@ A Computer Engineer  :technologist:
 
 - 🔭 I’m currently working as Full Stack Software Engineer
 - 🌱 I’m currently learning Amazon Web Services, Azure, MCP, Blockchain, LLM
-- :book: I'm currently certified on RHCSA, RHCE, AWS SAA-C03, JLPT N2
+- :book: I'm currently certified on RHCSA, RHCE, AWS SAA-C03, JLPT N2, AZ 900, AI 900
 - 👯 I’m looking to collaborate on Open Source Projects
 - 🤔 I’m looking for help with Operating System Development (Web3.0 & AI)
 - 💬 Ask me about Software Development & System Securities
